@@ -43,7 +43,7 @@ h1{
     color:#232526;
   }
   
-
+.key.active,
 .key:active {
     color:#5C2673; 
     background: #ff1f71;
